@@ -28,7 +28,7 @@
 | [Sales Dashboard](https://github.com/VivekVaidya120/sales-dashboard) | Power BI | Visualized monthly sales KPIs and trends |
 | [Netflix Data EDA](https://github.com/VivekVaidya120/netflix-analysis) | Python, Pandas | Explored Netflix dataset and content trends |
 | [COVID-19 Dashboard](https://github.com/VivekVaidya120/covid19-dashboard) | Excel | Built a dashboard to analyze global COVID-19 data |
-| E-Commerce Superstore Analysis | Excel + Python + Power BI | [View](https://github.com/VivekVaidya120/E-Commerce-dashboard) |
+| [E-Commerce Superstore Analysis](https://github.com/VivekVaidya120/ecommerce-superstore) | Analyzed superstore sales data using Excel, Python, and Power BI to uncover key trends and insights |
 
 ---
 
