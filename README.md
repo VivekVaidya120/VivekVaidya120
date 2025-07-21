@@ -26,7 +26,7 @@
 | Project Name | Tools Used | Description |
 |--------------|------------|-------------|
 | [Screenshot](https://github.com/VivekVaidya120/Sales_Dashboard/blob/main/Screenshot_Sales_Dashboard.png?raw=true)  +  [Sales_Dashboard](https://github.com/VivekVaidya120/Sales_Dashboard/blob/main/Sales_Dashboard.pbix) | Excel + Power BI | Visualized monthly sales KPIs and trends |
-| [Screenshot](https://github.com/VivekVaidya120/Netflix_EDA_Project/blob/main/Screenshot_Netflix_EDA_Dashboard.png?raw=true)  +  [Netflix_EDA_Project](https://github.com/VivekVaidya120/Netflix_EDA_Project/tree/main/Netflix_EDA_Project) | Python, Pandas + Power BI | Explored Netflix dataset and content trends |
+| [Screenshot](https://github.com/VivekVaidya120/Netflix_EDA_Project/blob/main/Screenshot_Netflix_EDA_Dashboard.png?raw=true)  +  [Netflix_EDA_Project](https://github.com/VivekVaidya120/Netflix_EDA_Project) | Python, Pandas + Power BI | Explored Netflix dataset and content trends |
 | [COVID-19 Dashboard](https://github.com/VivekVaidya120/covid19-dashboard) | Excel | Built a dashboard to analyze global COVID-19 data |
 | [E-Commerce Superstore Analysis](https://github.com/VivekVaidya120/ecommerce-superstore) | Excel, Power BI, Python | Analyzed superstore sales data using Excel, Python, and Power BI to uncover key trends and insights |
 
