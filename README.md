@@ -29,6 +29,13 @@
 | [Screenshot](https://github.com/VivekVaidya120/Netflix_EDA_Project/blob/main/Screenshot_Netflix_EDA_Dashboard.png?raw=true)  +  [Netflix_EDA_Project](https://github.com/VivekVaidya120/Netflix_EDA_Project) | Python, Pandas + Power BI | Explored Netflix dataset and content trends |
 | [Screenshot](https://github.com/VivekVaidya120/COVID-19_Global_Project/blob/main/Screenshot_COVID-19_Dashboard.png?raw=true)  +  [COVID-19_Global_Project](https://github.com/VivekVaidya120/COVID-19_Global_Project) | Python, Pandas + Power BI | Built a dashboard to analyze global COVID-19 data |
 | [E-Commerce Superstore Analysis](https://github.com/VivekVaidya120/ecommerce-superstore) |  ![Excel](https://img.shields.io/badge/-Excel-green) Power BI, Python | Analyzed superstore sales data using Excel, Python, and Power BI to uncover key trends and insights |
+| Project Name | Tools Used | Description | Preview |
+|--------------|------------|-------------|---------|
+| [Sales Dashboard](https://github.com/VivekVaidya120/Sales_Dashboard) | ![Python](https://img.shields.io/badge/-Python-blue) ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow) | Sales analysis of regional performance using KPIs & visuals. | 📊 |
+| [Netflix EDA](https://github.com/VivekVaidya120/Netflix-EDA) | ![Python](https://img.shields.io/badge/-Python-blue) | Deep exploratory analysis on Netflix titles data. | 🎬 |
+| [COVID-19 Global Dashboard](https://github.com/VivekVaidya120/COVID19-Dashboard) | ![Python](https://img.shields.io/badge/-Python-blue) ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow) | Country-wise COVID analysis with visual reports. | 🌍 |
+| [E-Commerce Superstore](https://github.com/VivekVaidya120/E-Commerce-Superstore) | ![Excel](https://img.shields.io/badge/-Excel-green) ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow) | Superstore transaction analysis with dynamic charts. | 🛒 |
+
 
 ---
 
