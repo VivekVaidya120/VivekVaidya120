@@ -33,7 +33,7 @@
 |--------------|------------|-------------|---------|
 | [Sales Dashboard](https://github.com/VivekVaidya120/Sales_Dashboard) | ![Python](https://img.shields.io/badge/-Python-blue) ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow) | Sales analysis of regional performance using KPIs & visuals. | 📊 |
 | [Netflix EDA](https://github.com/VivekVaidya120/Netflix-EDA) | ![Python](https://img.shields.io/badge/-Python-blue) | Deep exploratory analysis on Netflix titles data. | 🎬 |
-| [COVID-19 Global Dashboard](https://github.com/VivekVaidya120/COVID19-Dashboard) | ![Python](https://img.shields.io/badge/-Python-blue) ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow) | Country-wise COVID analysis with visual reports. | 🌍 |
+| [COVID-19 Global Dashboard](https://github.com/VivekVaidya120/COVID19-Dashboard) | ![Python](https://img.shields.io/badge/-Python-blue) ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow) | 🌍 Country-wise COVID analysis with visual reports. | 🌍 |
 | [E-Commerce Superstore](https://github.com/VivekVaidya120/E-Commerce-Superstore) | ![Excel](https://img.shields.io/badge/-Excel-green) ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow) | Superstore transaction analysis with dynamic charts. | 🛒 |
 
 
